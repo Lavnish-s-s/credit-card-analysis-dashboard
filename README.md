@@ -64,7 +64,7 @@ Check out my [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjUwNzdiNTUtZWUz
 - **Interactive Filters**  
   Weekly date filters, card category filters, gender filters, and more for customized analysis.
 
-![image](https://github.com/lkh-pranav/Credit-Card-Analysis/assets/165638568/6327d3b6-b6c7-4cab-989c-ff68bf890d05)
+![image](https://github.com/Lavnish-s-s/credit-card-analysis-dashboard/blob/main/Dashboard-1.png)
 
 ### Dashboard 2 : Credit Card Customer Report
 
