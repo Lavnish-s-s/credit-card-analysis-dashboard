@@ -92,7 +92,7 @@ Check out my [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjUwNzdiNTUtZWUz
 - **Tree Maps**  
   Uses tree maps for intuitive visual representation of revenue distribution across categories and demographics.
 
-![image](https://github.com/lkh-pranav/Credit-Card-Analysis/assets/165638568/1560937d-2291-4f11-b685-1aeb27c937ac)
+![image](https://github.com/Lavnish-s-s/credit-card-analysis-dashboard/blob/main/Dashboard-2.png)
 
 ## 📊 Insights
 
